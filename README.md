@@ -1,4 +1,4 @@
-This is a basic Google Home Page Replica made in REACT. I've used 3 React Components and some css styling, it was cool practice exercise in learning REACT.
+This is a basic Google Home Page Replica made in REACT. I've used 3 React Components and some css styling, it was a cool practice exercise in learning REACT.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
